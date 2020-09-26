@@ -48,7 +48,7 @@ public class Producto implements Serializable {
 	@Column(name = "status")
 	private boolean status;
 
-	
+	     
 	/*
 	@OneToOne(cascade = CascadeType.ALL)
 	@JoinColumn(name = "fk_precio")
